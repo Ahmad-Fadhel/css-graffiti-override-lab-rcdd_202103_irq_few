@@ -1,7 +1,14 @@
 /* write your override styles here */
-.parent {
+.parent #tag-4 {
   display: none;
 }
+.parent #tag-5{
+  display: none;
+}
+.parent .parent {
+  display: none;
+}
+
 
  div#wall #tag-2{
   display: none;
