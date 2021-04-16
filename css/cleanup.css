@@ -3,11 +3,11 @@
   display: none;
 }
 
-#wall + div{
+#wall .tag-1{
   display: none;
 }
 
- div#tag-2{
+ #wall #tag-2{
   display: none;
 }
 #wall .slick{
