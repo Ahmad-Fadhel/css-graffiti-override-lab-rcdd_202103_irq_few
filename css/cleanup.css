@@ -1,2 +1,4 @@
 /* write your override styles here */
-.parent #tag-7
+.parent #tag-7{
+  display: none;
+}
